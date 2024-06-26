@@ -1,0 +1,56 @@
+{
+  "videos": [
+    {
+      "caption": "swalla",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL3QGLyutXdHJK9V8KzWxAv3WO-fsJ9H9Ziw&s",
+      "url": "https://www.youtube.com/embed/NGLxoKOvzu4",
+      "id": 1
+    },
+    {
+      "caption": "illuminati",
+      "image": "https://i.ytimg.com/vi/tOM-nWPcR4U/maxresdefault.jpg",
+      "url": "https://www.youtube.com/embed/tOM-nWPcR4U",
+      "id": 2
+    }
+  ],
+  "category": [
+    {
+      "categoryName": "English Songs",
+      "allVideos": [
+        {
+          "caption": "swalla",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL3QGLyutXdHJK9V8KzWxAv3WO-fsJ9H9Ziw&s",
+          "url": "https://www.youtube.com/embed/NGLxoKOvzu4",
+          "id": 1
+        }
+      ],
+      "id": 1
+    },
+    {
+      "categoryName": "Malayalam Songs",
+      "allVideos": [
+        {
+          "caption": "illuminati",
+          "image": "https://i.ytimg.com/vi/tOM-nWPcR4U/maxresdefault.jpg",
+          "url": "https://www.youtube.com/embed/tOM-nWPcR4U",
+          "id": 2
+        }
+      ],
+      "id": 2
+    }
+  ],
+  "history": [
+    {
+      "caption": "swalla",
+      "url": "https://www.youtube.com/embed/NGLxoKOvzu4",
+      "timeStamp": "20/06/2024, 10:21:16",
+      "id": 1
+    },
+    {
+      "caption": "illuminati",
+      "url": "https://www.youtube.com/embed/tOM-nWPcR4U",
+      "timeStamp": "25/06/2024, 08:35:37",
+      "id": 2
+    }
+  ]
+}
